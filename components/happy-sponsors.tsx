@@ -15,7 +15,8 @@ const sponsors: Sponsor[] = [
   { name: "Poulina Group Holding", logo: "/logo/Polina.webp" },
   { name: "UGFS", logo: "/logo/UGFS.webp" },
   { name: "ABSHORE", logo: "/logo/ABSHORE.webp", },
-  { name: "AICTO", logo: "/logo/AICTO.webp" },
+  { name: "Managers", logo: "/logo/M.webp" },
+  
   { name: "bi4you", logo: "/logo/bi4you.webp" },
   { name: "BIU", logo: "/logo/biu.webp" },
   { name: "CCIT", logo: "/logo/ccit.webp" },
@@ -35,16 +36,14 @@ const sponsors: Sponsor[] = [
   { name: "Enda", logo: "/logo/enda.webp" },
   { name: "EY", logo: "/logo/ey.webp" },
   { name: "ISCAE", logo: "/logo/iscae.webp" },
-  { name: "Managers", logo: "/logo/M.webp" },
-  
+  { name: "Neurodata", logo: "/logo/neurodata.webp" },
   { name: "PwC", logo: "/logo/pwc.webp" },
   { name: "Sofrecom", logo: "/logo/sofrecom.webp" },
   { name: "TIDCE", logo: "/logo/tidce.webp" },
   { name: "Trust IT", logo: "/logo/trust.webp" },
   { name: "ODC", logo: "/logo/orange.webp" },
-  { name: "Neurodata", logo: "/logo/neurodata.webp" },
   
-  
+  { name: "AICTO", logo: "/logo/AICTO.webp" },
   
   
   
