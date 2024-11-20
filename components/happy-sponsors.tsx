@@ -16,7 +16,6 @@ const sponsors: Sponsor[] = [
   { name: "UGFS", logo: "/logo/UGFS.webp" },
   { name: "ABSHORE", logo: "/logo/ABSHORE.webp", },
   { name: "Managers", logo: "/logo/M.webp" },
-  
   { name: "bi4you", logo: "/logo/bi4you.webp" },
   { name: "BIU", logo: "/logo/biu.webp" },
   { name: "CCIT", logo: "/logo/ccit.webp" },
@@ -28,9 +27,9 @@ const sponsors: Sponsor[] = [
   { name: "LA POSTE", logo: "/logo/poste.png" },
   { name: "MANPOWER", logo: "/logo/Manpower.png" },
   { name: "MIN COMM", logo: "/logo/MinComm.png" },
+  { name: "TAKI ACADEMY", logo: "/logo/takiAcademy.png" },
   { name: "STB", logo: "/logo/STB.png" },
   { name: "TT", logo: "/logo/TT.png" },
-  
   { name: "ZEUS_Labs", logo: "/logo/ZEUS_Labs.png" },
   { name: "Elon", logo: "/logo/elon.webp" },
   { name: "Enda", logo: "/logo/enda.webp" },
@@ -42,7 +41,6 @@ const sponsors: Sponsor[] = [
   { name: "TIDCE", logo: "/logo/tidce.webp" },
   { name: "Trust IT", logo: "/logo/trust.webp" },
   { name: "ODC", logo: "/logo/orange.webp" },
-  
   { name: "AICTO", logo: "/logo/AICTO.webp" },
   
   
