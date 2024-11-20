@@ -35,13 +35,15 @@ const sponsors: Sponsor[] = [
   { name: "Enda", logo: "/logo/enda.webp" },
   { name: "EY", logo: "/logo/ey.webp" },
   { name: "ISCAE", logo: "/logo/iscae.webp" },
-  { name: "Neurodata", logo: "/logo/neurodata.webp" },
+  { name: "Managers", logo: "/logo/M.webp" },
+  
   { name: "PwC", logo: "/logo/pwc.webp" },
   { name: "Sofrecom", logo: "/logo/sofrecom.webp" },
   { name: "TIDCE", logo: "/logo/tidce.webp" },
   { name: "Trust IT", logo: "/logo/trust.webp" },
   { name: "ODC", logo: "/logo/orange.webp" },
-  { name: "Managers", logo: "/logo/M.webp" },
+  { name: "Neurodata", logo: "/logo/neurodata.webp" },
+  
   
   
   
